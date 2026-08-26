@@ -35,7 +35,7 @@ As a subscriber to Microsoft 365 you're already using Microsoft Entra ID.  In th
 	
 	 1. In the address bar, enter **`https://admin.microsoft.com**` and sign in with the Microsoft 365 credentials provided by your authorized lab hoster (ALH).
 	
-	 1. In the **Sign in** window, enter **`admin@WWLx929900.onmicrosoft.com`** (where `ZZZZZZ` is your unique tenant ID provided by your ALH), then select **Next**.
+	 1. In the **Sign in** window, enter **`admin@WWLxZZZZZZ.onmicrosoft.com`** (where `ZZZZZZ` is your unique tenant ID provided by your ALH), then select **Next**.
 	
 	 1. Enter the admin password provided by your lab hosting provider, then select **Sign in**.
 	
