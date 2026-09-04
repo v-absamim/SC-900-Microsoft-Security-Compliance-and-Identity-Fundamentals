@@ -33,7 +33,7 @@ As a subscriber to Microsoft 365 you're already using Microsoft Entra ID.  In th
 
 1. If the Microsoft 365 admin center is already open from the previous exercise, skip to step 2. Otherwise, complete the following steps:
 	
-	 1. In the address bar, enter **`https://admin.microsoft.com**` and sign in with the Microsoft 365 credentials provided by your authorized lab hoster (ALH).
+	 1. In the address bar, enter **`https://admin.microsoft.com`** and sign in with the Microsoft 365 credentials provided by your authorized lab hoster (ALH).
 	
 	 1. In the **Sign in** window, enter **`admin@WWLxZZZZZZ.onmicrosoft.com`** (where `ZZZZZZ` is your unique tenant ID provided by your ALH), then select **Next**.
 	
@@ -112,11 +112,9 @@ In this task, you’ll assign a license to the user you just created, using the 
 
 In this task, you'll sign in as Sara Perez, for the first time.
 
-1. Open Microsoft Edge.
+1. Open Microsoft Edge. In the address bar, enter **`https://login.microsoft.com`**.
 
-1. In the address bar, enter **`https://login.microsoft.com`**.
-
-1. Sign in as **sara@WWLxZZZZZ.onmicrosoft.com**, (where ZZZZZZ is your unique tenant ID provided by your ALH)
+1. Sign in as **sara@WWLxZZZZZZ.onmicrosoft.com** (where `ZZZZZZ` is your unique tenant ID provided by your ALH).
    
 1. Enter the temporary password you set in the previous task.
 
